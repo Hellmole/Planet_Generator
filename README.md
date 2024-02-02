@@ -1,4 +1,4 @@
-Planet Generator
+# Planet Generator
 
 Run the game by downloading all files and executing the HTML file
 The code was written in JavaScript to experiment with gradients and transparent fills.
